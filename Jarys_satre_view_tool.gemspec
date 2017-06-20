@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["heroshio1"]
   spec.email         = ["heroshio1@gmail.com"]
 
-  spec.summary       = %q{View specific component that diplays copy right infor}
+  spec.summary       = %q{View specific component that diplays copyright info}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
