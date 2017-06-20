@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["heroshio1@gmail.com"]
 
   spec.summary       = %q{View specific component that diplays copyright info}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/heroshio1/Jarys_satre_view_tool"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.14"
   spec.add_development_dependency "rake", "~> 10.0"
-  spec.add_development_dependency "rspec/minitest/", "~> "
+  spec.add_development_dependency "rspec/minitest/", "~> 3.0"
 end
