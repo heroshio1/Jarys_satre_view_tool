@@ -6,7 +6,7 @@ require 'Jarys_satre_view_tool/version'
 Gem::Specification.new do |spec|
   spec.name          = "Jarys_satre_view_tool"
   spec.version       = JarysSatreViewTool::VERSION
-  spec.authors       = ["heroshio1"]
+  spec.authors       = ["Jarys Satre"]
   spec.email         = ["heroshio1@gmail.com"]
 
   spec.summary       = %q{View specific component that diplays copyright info}
@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.14"
   spec.add_development_dependency "rake", "~> 10.0"
-  spec.add_development_dependency "rspec/minitest/",
+  spec.add_development_dependency "rspec/minitest/"
 end
